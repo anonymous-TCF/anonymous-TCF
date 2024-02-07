@@ -21,7 +21,7 @@ This repository is intended for anonymous review purposes. We provide some addit
 
 ## Results of Bili8M
 **Figure 3: TCF’s performance (y-axis: HR@10(%) in left and NDCG@10(%) in right) of 3 item encoder with increased sizes (x-axis) on Bili8M. SASRec is used as the backbone. LLM is frozen.**
-![TCFlargeBili8M](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/pixel8M_results_version1.jpg)
+![TCFlargeBili8M](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/bili8M_NDCG.jpg)
 
 ## Other paradigms for LLM-based recommender models
 
