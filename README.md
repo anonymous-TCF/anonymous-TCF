@@ -19,7 +19,7 @@ This repository is intended for anonymous review purposes. We provide some addit
 **Figure 2: TCF with retrained LM vs frozen LM (y-axis: NDCG@10(%)), where only the top two layers are retrained. The 175B LM is not retrained due to its ultra-high computational cost.**
 ![FtvsFz_ndcg](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/finetune_vs_freeze_ndcg.jpg)
 
-## Results of Bili8M
+## Results on Bili8M
 **Figure 3: TCF’s performance (y-axis: HR@10(%) in left and NDCG@10(%) in right) of 3 item encoder with increased sizes (x-axis) on Bili8M. SASRec is used as the backbone. LLM is frozen.**
 ![TCFlargeBili8M](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/bili8M_NDCG.jpg)
 
